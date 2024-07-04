@@ -35,6 +35,6 @@ To test your code, you just need to call the `test_PI(yourFunctionThatReturnsFlo
 10. You can submit as many functions as you want. The more, the merrier!
 
 ## Goal: 100 Functions before PI Day
-Let's join forces and embark on an exciting journey to compute PI in 100 unique and fascinating ways before March 14th, 2024. Progress will be updated regularly
+Let's join forces and embark on an exciting journey to compute PI in 100 unique and fascinating ways before March 14th, 2025. Progress will be updated regularly
 
 Current Progress: 3%
