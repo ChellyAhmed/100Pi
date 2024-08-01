@@ -28,7 +28,7 @@ To test your code, you just need to call the `test_PI(yourFunctionThatReturnsFlo
 3. The function should not take any arguments.
 4. The function should return a float.
 5. The function should be in a separate new file under `compute_PI`.
-6. The function should be tested using the `compute_PI/test_PI.py` file (under the). You can call the test function within your code as many times as you want.
+6. The function should be tested using the `compute_PI/test_PI.py` file. You can call the test function within your code as many times as you want.
 7. No one cares about the performance of your code. We only care about the result.
 8. You don't need to explain how your code works. We will figure it out ourselves. Although, you can leave a comment or two if you want. It's totally up to you.
 9. No one will judge you if your code is weird or not optimized. We are here to have fun and be creative.
