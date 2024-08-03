@@ -14,9 +14,9 @@ def datetimePI():
             pi = (current_day_in_seconds - epoch_time_a_year_ago) / 10000000
             test_PI(pi)
             print('Found PI from date %s' % datetime.fromtimestamp(epoch_time_a_year_ago).isoformat())
-            break
+            return pi
         except AssertionError:
             milliseconds = milliseconds + step
 
 
-datetimePI()
+print(datetimePI())
