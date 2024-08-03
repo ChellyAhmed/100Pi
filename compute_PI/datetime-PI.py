@@ -19,4 +19,4 @@ def datetimePI():
             milliseconds = milliseconds + step
 
 
-print(datetimePI())
+datetimePI()
