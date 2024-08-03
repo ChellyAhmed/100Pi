@@ -7,7 +7,7 @@ def wallisPI():
             approximation *= (i / (i - 1)) * (i / (i + 1))
             pi = approximation * 2
             test_PI(pi)
-            print('PI FOUND AFTER %d ITERATIONS' % i)
+            print('PI FOUND AFTER %d ITERATIONS' % (i/2))
             break
         except AssertionError:
             i += 2
