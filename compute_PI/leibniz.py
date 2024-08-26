@@ -1,7 +1,7 @@
 #!/bin/python3
 from test_PI import test_PI
 
-def leibnitz():
+def leibniz():
 
     running_sum = 1
     next_denominator = 3
@@ -19,4 +19,4 @@ def leibnitz():
         except AssertionError:
             continue
 
-leibnitz()
+leibniz()
