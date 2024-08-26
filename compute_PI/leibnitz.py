@@ -1,6 +1,7 @@
 #!/bin/python3
+from test_PI import test_PI
 
-def main():
+def leibnitz():
 
     running_sum = 1
     next_denominator = 3
@@ -12,5 +13,10 @@ def main():
         sign *= -1
 
         print(running_sum * 4)
+        try:
+            test_PI(running_sum * 4)
+            return running_sum * 4
+        except AssertionError:
+            continue
 
-if __name__ == "__main__": main()
+leibnitz()
