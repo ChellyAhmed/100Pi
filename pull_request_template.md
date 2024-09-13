@@ -9,5 +9,6 @@ Please ensure that your pull request meets the following requirements:
 ** Optional **
 - [ ] I included my name as a comment in my code (optional).
 - [ ] I included comments explaining how my code works (optional).
+- [ ] I starred the repo (optional).
 
 Thank you for your contribution!
