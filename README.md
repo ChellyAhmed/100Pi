@@ -45,7 +45,7 @@ Last update: August 26th, 2024
 - [Franci3](https://github.com/franci3/)
 - [Ubinator](https://github.com/ubinator)
 
-## Why shuold you star this repo?
+## Why you should star this repo:
 1. It makes you look cool. (which you are!)
 2. It makes the repo looks cool. (which it is!)
 3. You'll be able to say "I contributed to a repo with a large number of stars!"
