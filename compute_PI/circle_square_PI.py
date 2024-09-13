@@ -1,6 +1,8 @@
 # We estimate the value of pi by generating random points in a square and checking if they fall inside the circle.
 # The ratio of the points inside the circle to the total points gives us an estimate of pi.
 
+#Although I wrote down the code myself, but the idea was suggested by Nikola Tadic [github.com/ubinator]
+
 import random
 from test_PI import test_PI
 
