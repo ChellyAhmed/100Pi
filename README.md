@@ -11,11 +11,12 @@ Please don't hesitate to share your code with us, we would love to see how you d
 ## How to Contribute
 
 1. Fork this repository.
-2. Create a new file in the `compute_PI` folder.
-3. Write your code in the file. Make sure you write a function that returns the result of the computation.
-4. Test it using `test_PI/test_PI.py`.
-5. Commit your changes in a new branch.
-6. Create a pull request.
+2. Create a new branch. (You can name it whatever you want)
+3. Create a new file in the `compute_PI` folder.
+4. Write your code in the file. Make sure you write a function that returns the result of the computation.
+5. Test it using `test_PI/test_PI.py`.
+6. Commit your changes in a new branch.
+7. Create a pull request.
 
 ## How to Test Your Code
 
