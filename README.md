@@ -38,8 +38,8 @@ To test your code, you just need to call the `test_PI(yourFunctionThatReturnsFlo
 ## Goal: 100 Functions before PI Day
 Let's join forces and embark on an exciting journey to compute PI in 100 unique and fascinating ways before March 14th, 2025. Progress will be updated regularly
 
-Current Progress: 9%
-Last update: August 26th, 2024
+Current Progress: 10%
+Last update: October 8th, 2024
 
 ## First 3 Contributors:
 - [ChellyAhmed](https://github.com/ChellyAhmed)
